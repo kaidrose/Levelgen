@@ -1,0 +1,9 @@
+{
+  "name": "GDLevelGen",
+  "version": "5.4.1",
+  "author": "T6",
+  "description": "Ultimate GDLevelGen Mega Mod for GD 2.2081",
+  "minimumGDVersion": "2.2081",
+  "geodeVersion": "5.4.1",
+  "dependencies": []
+}
